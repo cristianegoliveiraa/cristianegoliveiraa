@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋🏻, Eu sou a Cris!</h1>
 <h3 align="center">Apaixonado por ciência e análise de dados no mundo digital</h3>
 
-- 🔭 Atualmente estou trabalhando análise e visualização de dados **(Projetos variados)**
+- 🔭 Atualmente estou trabalhando em análise e visualização de dados **(Projetos variados)**
 
 - 🌱 Atualmente estou aprendendo **Python e SQL**
 
