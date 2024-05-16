@@ -7,7 +7,7 @@
 
 - 💬 Me pergunte sobre **Power BI, Excel, Python e SQL**
 
-- 📫 Você me acha através do email **cristianegoliveiraa@gmail.com**
+- 📫 Você me acha através do email **dataanalyst.crisoliveira@gmail.com**
 
 - 📄 Sobre minhas experiências [https://www.linkedin.com/in/cristianegoliveira/](https://www.linkedin.com/in/cristianegoliveira/)
 
